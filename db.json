@@ -1,0 +1,212 @@
+[
+    {
+        "product_name": "Producto B",
+        "value": 700.33,
+        "vendedor": "Vendedor 5",
+        "promocion": false,
+        "valor": 26.68
+    },
+    {
+        "product_name": "Producto A",
+        "value": 291.41,
+        "vendedor": "Vendedor 1",
+        "promocion": false,
+        "valor": 17.22
+    },
+    {
+        "product_name": "Producto C",
+        "value": 651.69,
+        "vendedor": "Vendedor 5",
+        "promocion": false,
+        "valor": 8.63
+    },
+    {
+        "product_name": "Producto E",
+        "value": 126.63,
+        "vendedor": "Vendedor 2",
+        "promocion": true,
+        "valor": 46.84
+    },
+    {
+        "product_name": "Producto E",
+        "value": 292.73,
+        "vendedor": "Vendedor 5",
+        "promocion": true,
+        "valor": 45.39
+    },
+    {
+        "product_name": "Producto E",
+        "value": 463.79,
+        "vendedor": "Vendedor 3",
+        "promocion": true,
+        "valor": 38.44
+    },
+    {
+        "product_name": "Producto E",
+        "value": 119.83,
+        "vendedor": "Vendedor 5",
+        "promocion": true,
+        "valor": 30.89
+    },
+    {
+        "product_name": "Producto A",
+        "value": 846.2,
+        "vendedor": "Vendedor 4",
+        "promocion": true,
+        "valor": 24.93
+    },
+    {
+        "product_name": "Producto D",
+        "value": 844.72,
+        "vendedor": "Vendedor 5",
+        "promocion": true,
+        "valor": 3.9
+    },
+    {
+        "product_name": "Producto E",
+        "value": 784.49,
+        "vendedor": "Vendedor 3",
+        "promocion": false,
+        "valor": 17.48
+    },
+    {
+        "product_name": "Producto D",
+        "value": 314.25,
+        "vendedor": "Vendedor 4",
+        "promocion": false,
+        "valor": 17.77
+    },
+    {
+        "product_name": "Producto C",
+        "value": 728.53,
+        "vendedor": "Vendedor 1",
+        "promocion": true,
+        "valor": 26.47
+    },
+    {
+        "product_name": "Producto C",
+        "value": 586.51,
+        "vendedor": "Vendedor 3",
+        "promocion": true,
+        "valor": 40.35
+    },
+    {
+        "product_name": "Producto B",
+        "value": 565.47,
+        "vendedor": "Vendedor 5",
+        "promocion": false,
+        "valor": 34.21
+    },
+    {
+        "product_name": "Producto E",
+        "value": 454.63,
+        "vendedor": "Vendedor 2",
+        "promocion": true,
+        "valor": 46.96
+    },
+    {
+        "product_name": "Producto C",
+        "value": 814.12,
+        "vendedor": "Vendedor 5",
+        "promocion": true,
+        "valor": 14.78
+    },
+    {
+        "product_name": "Producto B",
+        "value": 237.94,
+        "vendedor": "Vendedor 1",
+        "promocion": true,
+        "valor": 17.09
+    },
+    {
+        "product_name": "Producto A",
+        "value": 660.17,
+        "vendedor": "Vendedor 5",
+        "promocion": true,
+        "valor": 11.31
+    },
+    {
+        "product_name": "Producto C",
+        "value": 760.57,
+        "vendedor": "Vendedor 1",
+        "promocion": true,
+        "valor": 48.14
+    },
+    {
+        "product_name": "Producto C",
+        "value": 478.11,
+        "vendedor": "Vendedor 3",
+        "promocion": true,
+        "valor": 44.75
+    },
+    {
+        "product_name": "Producto E",
+        "value": 523.46,
+        "vendedor": "Vendedor 4",
+        "promocion": false,
+        "valor": 1.47
+    },
+    {
+        "product_name": "Producto C",
+        "value": 372.73,
+        "vendedor": "Vendedor 2",
+        "promocion": true,
+        "valor": 9.97
+    },
+    {
+        "product_name": "Producto B",
+        "value": 898.08,
+        "vendedor": "Vendedor 1",
+        "promocion": true,
+        "valor": 8.43
+    },
+    {
+        "product_name": "Producto D",
+        "value": 921.99,
+        "vendedor": "Vendedor 2",
+        "promocion": true,
+        "valor": 26.05
+    },
+    {
+        "product_name": "Producto E",
+        "value": 125.0,
+        "vendedor": "Vendedor 2",
+        "promocion": true,
+        "valor": 46.08
+    },
+    {
+        "product_name": "Producto C",
+        "value": 139.4,
+        "vendedor": "Vendedor 4",
+        "promocion": false,
+        "valor": 17.23
+    },
+    {
+        "product_name": "Producto E",
+        "value": 467.19,
+        "vendedor": "Vendedor 4",
+        "promocion": false,
+        "valor": 22.61
+    },
+    {
+        "product_name": "Producto B",
+        "value": 165.55,
+        "vendedor": "Vendedor 1",
+        "promocion": true,
+        "valor": 14.1
+    },
+    {
+        "product_name": "Producto D",
+        "value": 444.08,
+        "vendedor": "Vendedor 2",
+        "promocion": false,
+        "valor": 18.47
+    },
+    {
+        "product_name": "Producto D",
+        "value": 838.05,
+        "vendedor": "Vendedor 3",
+        "promocion": true,
+        "valor": 28.28
+    }
+]
